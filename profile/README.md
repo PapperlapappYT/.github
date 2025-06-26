@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🎉 You found it 🎉
 
 This is the public repository with almost all (as in almost none) of the code that we produced for our episodes.
 
